@@ -1,2 +1,2 @@
 # website
-to create a website automaticly
+to create a website like wordpress
